@@ -1,0 +1,31 @@
+{
+    "keyboard_name": "Malik's Hackpad",
+    "manufacturer": "Malik",
+    "processor": "RP2040",
+    "bootloader": "rp2040",
+    "development_board": "seeed_xiao_rp2040",
+    "features": {
+        "bootmagic": true,
+        "extrakey": true,
+        "mousekey": true,
+        "nkro": true,
+        "encoder": true,
+        "oled": true
+    },
+    "diode_direction": "COL2ROW",
+    "matrix_pins": {
+        "cols": ["GP29", "GP0", "GP1", "GP2"],
+        "rows": ["GP26", "GP27", "GP28"]
+    },
+    "encoder": {
+        "rotary": [
+            { "pin_a": "GP3", "pin_b": "GP4"}
+        ],
+    },
+    "oled": {
+        "driver": "SSD1306",
+        "pins": {
+            "sda": "GP6",
+            "scl": "GP7"
+        },
+    }
