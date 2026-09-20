@@ -2,7 +2,7 @@
 
 ## Overview
 My hackpad features 8 keys, two rotary encoder and an OLED Display. It also uses QMK firmware.  
-**Work in Progress:** I'll handle the project in today and build my Hackpad as soon as possible.  
+**Work in Progress:** I'llsubmit the project in today and build my Hackpad as soon as possible.  
 Check my progress on [Stardance](https://stardance.hackclub.com/projects/44913)!
 
 ## Features
@@ -47,8 +47,14 @@ I used QMK firmware for everything. Because I don't have the Hackpad yet, I just
 
 ## BOM
 *Coming soon*
+
+## Next Steps
+- Submit the project
+- Design the knobs for the rotary encoders
+- Finish the Software
 <br>
 <br>
 It was really fun to make this project and I learnd a lot of things. Thanks to Hackclub!
 <br>
+
 ### Stay tuned for updates!
