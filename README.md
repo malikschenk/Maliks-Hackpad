@@ -2,18 +2,18 @@
 
 ## Overview
 My hackpad features 8 keys, two rotary encoder and an OLED Display. It also uses QMK firmware.  
-**Work in Progress:** I'llsubmit the project in today and build my Hackpad as soon as possible.  
+**Work in Progress:** I'll submit the project today and build my Hackpad as soon as possible.  
 Check my progress on [Stardance](https://stardance.hackclub.com/projects/44913)!
 
 ## Features
 - 8 MX Switches
 - 128x32 OLED Display
-- EC11 Rotary Encoder
+- EC11 Rotary Encoders
   
 Because I don't have enough pins, just one of the two rotary encoders can send a rotary signal. But you can at least press both of them!
 
 ## PCB
-I designed my PCB inside KiCad. The libaries I used were from the Hackpad website.
+I designed my PCB inside KiCad. The libraries I used were from the Hackpad website.
 
 ### Schematic
 
@@ -38,7 +38,7 @@ I designed my PCB inside KiCad. The libaries I used were from the Hackpad websit
 
 ## Case
 
-The case consists of the top and bottom plate. The two plates are held together using four M3 scres and four heatsink inserts.
+The case consists of the top and bottom plate. The two plates are held together using four M3 screws and four heat-set inserts.
 
 <img width="1198" height="763" alt="Screenshot 2026-09-20 201357" src="https://github.com/user-attachments/assets/36dee105-2bd1-4f65-b6de-d55cd605cfdf" />
 
@@ -54,7 +54,7 @@ I used QMK firmware for everything. Because I don't have the Hackpad yet, I just
 - Finish the Software
 <br>
 <br>
-It was really fun to make this project and I learnd a lot of things. Thanks to Hackclub!
+It was really fun to make this project and I learned a lot of things. Thanks to Hackclub!
 <br>
 
 ### Stay tuned for updates!
