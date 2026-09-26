@@ -53,7 +53,7 @@ I used QMK firmware for everything. Because I don't have the Hackpad yet, I just
 | MX Switch | SW1-SW8 | Button_Switch_Keyboard:SW_KEY_MX | 8 |
 | EC11 Rotary Encoder | RE1-RE2 | RotaryEncoder_Switch | 2 |
 | 0.91 inch OLED Display | U2 | OLED_128x32 | 1 |
-| 1N4148 Diode | D1-D8 | Diode_SMD:D_SOD-123 | 8 |
+| 1N4148 Diode | D2-D11 | Diode_SMD:D_SOD-123 | 10 |
 | M3 Heat-Set Insert | H1-H4 | Hardware | 4 |
 | M3x12mm Screw | S1-S4 | Hardware | 4 |
 
