@@ -38,7 +38,7 @@ I designed my PCB inside KiCad. The libraries I used were from the Hackpad websi
 
 ## Case
 
-The case consists of the top and bottom plate. The two plates are held together using four M3 screws and four heat-set inserts. The  encoder knobs are based on the [Hack Club knob design](https://github.com/hackclub/hackpad?tab=readme-ov-file).
+The case consists of the top and bottom plate. The two plates are held together using four M3 screws and four heat-set inserts. The  encoder knobs are based on the [Hack Club knob design](https://github.com/hackclub/hackpad?tab=readme-ov-file). The color scheme is inspired by Teenage Engineering designs.
 
 <img width="986" height="669" alt="Screenshot 2026-09-26 220342" src="https://github.com/user-attachments/assets/1d35ade8-a0fb-4d34-b03c-e0f2cf4bae8e" />
 
