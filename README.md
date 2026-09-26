@@ -61,7 +61,7 @@ I used QMK firmware for everything. Because I don't have the Hackpad yet, I just
 - Build my Hackpad
 - Finish the Software
 <br>
-<br>
+  
 It was really fun to make this project and I learned a lot of things. Thanks to Hackclub!
 <br>
 
