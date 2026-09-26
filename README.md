@@ -38,9 +38,9 @@ I designed my PCB inside KiCad. The libraries I used were from the Hackpad websi
 
 ## Case
 
-The case consists of the top and bottom plate. The two plates are held together using four M3 screws and four heat-set inserts.
+The case consists of the top and bottom plate. The two plates are held together using four M3 screws and four heat-set inserts. For the knobs I took the design by Hackclub.
 
-<img width="1198" height="763" alt="Screenshot 2026-09-20 201357" src="https://github.com/user-attachments/assets/36dee105-2bd1-4f65-b6de-d55cd605cfdf" />
+<img width="986" height="669" alt="Screenshot 2026-09-26 220342" src="https://github.com/user-attachments/assets/1d35ade8-a0fb-4d34-b03c-e0f2cf4bae8e" />
 
 ## Firmware
 I used QMK firmware for everything. Because I don't have the Hackpad yet, I just created the info.json and keymap.c with the help of AI since my JSON and C knowledge is not the best and I never used it for QMK before. But as soon as I have the Hackpad I'll start coding and keep you updated!
