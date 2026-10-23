@@ -17,21 +17,21 @@ I designed my PCB inside KiCad. The libraries I used were from the Hackpad websi
 
 ### Schematic
 
-<img width="1533" height="875" alt="Screenshot 2026-09-20 200308" src="https://github.com/user-attachments/assets/5c7b71dd-f27a-477c-a794-53e1ce2d47d6" />
+<img width="1446" height="781" alt="Screenshot 2026-10-24 001218" src="https://github.com/user-attachments/assets/0d30c047-267d-489a-b2f2-df4c2261d03f" />
 
 <br>
 <br>
 
 ### PCB
 
-<img width="1174" height="847" alt="Screenshot 2026-09-20 200208" src="https://github.com/user-attachments/assets/d48c038f-e317-4029-ad69-5ecf1f595c40" />
+<img width="919" height="632" alt="Screenshot 2026-10-24 001314" src="https://github.com/user-attachments/assets/19f4add1-b053-4086-8374-246af9139047" />
 
 <br>
 <br>
 
 ### PCB in 3d
 
-<img width="1209" height="837" alt="Screenshot 2026-09-20 200227" src="https://github.com/user-attachments/assets/dc9d19e4-2d66-4159-b538-b528921ee1fb" />
+<img width="1117" height="773" alt="Screenshot 2026-10-24 001358" src="https://github.com/user-attachments/assets/93ba9f8b-b2c8-43d7-b150-4a086057aa2d" />
 
 <br>
 <br>
@@ -40,7 +40,7 @@ I designed my PCB inside KiCad. The libraries I used were from the Hackpad websi
 
 The case consists of the top and bottom plate. The two plates are held together using four M3 screws and four heat-set inserts. The  encoder knobs are based on the [Hack Club knob design](https://github.com/hackclub/hackpad?tab=readme-ov-file). The color scheme is inspired by Teenage Engineering designs.
 
-<img width="986" height="669" alt="Screenshot 2026-09-26 220342" src="https://github.com/user-attachments/assets/1d35ade8-a0fb-4d34-b03c-e0f2cf4bae8e" />
+<img width="1195" height="691" alt="Screenshot 2026-10-24 001435" src="https://github.com/user-attachments/assets/5acb33e7-de89-4f57-9614-b82aa590e3e5" />
 
 ## Firmware
 I used QMK firmware for everything. Because I don't have the Hackpad yet, I just created the info.json and keymap.c with the help of AI since my JSON and C knowledge is not the best and I never used it for QMK before. But as soon as I have the Hackpad I'll start coding and keep you updated!
