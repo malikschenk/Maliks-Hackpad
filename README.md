@@ -1,7 +1,7 @@
 # My Hackpad
 
 ## Overview
-My hackpad features 8 keys, two rotary encoder and an OLED Display. It also uses ////.  
+My hackpad features 8 keys, two rotary encoders and an OLED Display.  
 **Work in Progress:** I'll submited the project and build my Hackpad as soon as possible.  
 Check my progress on [Stardance](https://stardance.hackclub.com/projects/44913)!
 
