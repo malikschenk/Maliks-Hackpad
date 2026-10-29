@@ -1,14 +1,14 @@
 # My Hackpad
 
 ## Overview
-My hackpad features 8 keys, two rotary encoder and an OLED Display. It also uses QMK firmware.  
+My hackpad features 8 keys, two rotary encoder and an OLED Display. It also uses ////.  
 **Work in Progress:** I'll submited the project and build my Hackpad as soon as possible.  
 Check my progress on [Stardance](https://stardance.hackclub.com/projects/44913)!
 
 ## Features
-- 8 MX Switches
-- 128x32 OLED Display
-- EC11 Rotary Encoders
+- 8x MX Switches
+- 1x 128x32 OLED Display
+- 2x EC11 Rotary Encoders
   
 Because I don't have enough pins, just one of the two rotary encoders can send a rotary signal. But you can at least press both of them!
 
@@ -43,7 +43,22 @@ The case consists of the top and bottom plate. The two plates are held together 
 <img width="1195" height="691" alt="Screenshot 2026-10-24 001435" src="https://github.com/user-attachments/assets/5acb33e7-de89-4f57-9614-b82aa590e3e5" />
 
 ## Firmware
-I used QMK firmware for everything. Because I don't have the Hackpad yet, I just created the info.json and keymap.c with the help of AI since my JSON and C knowledge is not the best and I never used it for QMK before. But as soon as I have the Hackpad I'll start coding and keep you updated!
+The firmware runs on CircuitPython using the KMK fromework. To set it up you need to do this few things:
+- Install CircuitPython on your XIAO
+- Download the KMK framework and put into the lib folder
+- Download the Adafruit CircuitPython Bundle and add `adafruit_displayio_ssd1306` and `adafruit_display_text` to lib
+- Upload the code.py file and the lib folder to the root
+<br>
+
+It should look like this:
+```
+CIRCUITPY
+├─── code.py
+└─── lib/
+   ├─── kmk/
+   ├─── adafruit_display_text/
+   └─── adafruit_displayio_ssd1306/
+```
 
 ## BOM
 
@@ -59,7 +74,6 @@ I used QMK firmware for everything. Because I don't have the Hackpad yet, I just
 
 ## Next Steps
 - Build my Hackpad
-- Finish the Software
 <br>
   
 It was really fun to make this project and I learned a lot of things. Thanks to Hackclub!
